@@ -1,4 +1,4 @@
-# JavaScript
+# JavaScript2
 
 ## ✅ 함수(Function)의 개념
 
